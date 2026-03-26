@@ -12,7 +12,7 @@ def add(a, b):
     return a + b
     
     
-# TODO: divide() 함수 정의
+
 def divide(a, b):
     try:
         return a/b
